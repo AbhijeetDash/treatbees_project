@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "552619062175",
+    "firebase_url": "https://treatbees.firebaseio.com",
+    "project_id": "treatbees",
+    "storage_bucket": "treatbees.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552619062175:android:88099fd0ac745c715a03aa",
+        "android_client_info": {
+          "package_name": "com.incube.TreatBees"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552619062175-l8l71rq9boai9s9clkchfnaof8hc0gad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.incube.TreatBees",
+            "certificate_hash": "3ffbd69ec2f1f2566d5a0481ebefc62eb8d0d215"
+          }
+        },
+        {
+          "client_id": "552619062175-o6np3sl04nfh7rbd73ecejjv3a8lmtdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtUDj-KWMWBIAyOU1Glt97zocyW8HeJTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552619062175-o6np3sl04nfh7rbd73ecejjv3a8lmtdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
