@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "552619062175",
+    "firebase_url": "https://treatbees.firebaseio.com",
+    "project_id": "treatbees",
+    "storage_bucket": "treatbees.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552619062175:android:098989fb9dd9da0f5a03aa",
+        "android_client_info": {
+          "package_name": "com.incube.TBB"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552619062175-qvk00pppb2d5nrcd1dte6553e9kd51b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.incube.TBB",
+            "certificate_hash": "c7e3de5f825ca2fd4f3f5cbd9ea6ba140ae24174"
+          }
+        },
+        {
+          "client_id": "552619062175-te0kpncfftgk4gvh44o05e4sdiuueupr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.incube.TBB",
+            "certificate_hash": "86e5d2ecad5ae8a086698bd7f01df392ed5c149f"
+          }
+        },
+        {
+          "client_id": "552619062175-u7oka5k27ahqqhovv0til6nn22l66q5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.incube.TBB",
+            "certificate_hash": "d94372bdc251a0b1b9e33de50b122c1524293729"
+          }
+        },
+        {
+          "client_id": "552619062175-o6np3sl04nfh7rbd73ecejjv3a8lmtdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtUDj-KWMWBIAyOU1Glt97zocyW8HeJTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552619062175-3j6ms3rh4st13fk1kug5uubk5o7ehop3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552619062175:android:88099fd0ac745c715a03aa",
+        "android_client_info": {
+          "package_name": "com.incube.TreatBees"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552619062175-3sarm4ubqcljjei4903kcdhkog1cvovg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.incube.TreatBees",
+            "certificate_hash": "86e5d2ecad5ae8a086698bd7f01df392ed5c149f"
+          }
+        },
+        {
+          "client_id": "552619062175-h0euh97poo0gmrjvld592cvoe3l07roq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.incube.TreatBees",
+            "certificate_hash": "d94372bdc251a0b1b9e33de50b122c1524293729"
+          }
+        },
+        {
+          "client_id": "552619062175-jb7ih0u5okeuhiaatclgl3uq66ju3fet.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.incube.TreatBees",
+            "certificate_hash": "c7e3de5f825ca2fd4f3f5cbd9ea6ba140ae24174"
+          }
+        },
+        {
+          "client_id": "552619062175-o6np3sl04nfh7rbd73ecejjv3a8lmtdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtUDj-KWMWBIAyOU1Glt97zocyW8HeJTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552619062175-3j6ms3rh4st13fk1kug5uubk5o7ehop3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
